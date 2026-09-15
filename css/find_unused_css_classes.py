@@ -10,7 +10,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 
 # CSS file to check
 # CSS_FILE = PROJECT_ROOT / "styles.css"
-CSS_FILE = PROJECT_ROOT / "assets" / "css" / "styles.css"
+# or below, confirm the directory
+# CSS_FILE = PROJECT_ROOT / "assets" / "css" / "styles.css"
 
 # ---------------------------------------------------------
 # FIND CSS CLASS SELECTORS
