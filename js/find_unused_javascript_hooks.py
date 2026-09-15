@@ -11,7 +11,9 @@ import re
 PROJECT_ROOT = Path(__file__).resolve().parent
 
 # The specific JavaScript file to audit.
-JS_FILE = PROJECT_ROOT / "assets" / "js" / "main.js"
+# JS_FILE = PROJECT_ROOT / "main.js"
+# or below, confirm the directory
+# JS_FILE = PROJECT_ROOT / "assets" / "js" / "main.js"
 
 
 # ---------------------------------------------------------
